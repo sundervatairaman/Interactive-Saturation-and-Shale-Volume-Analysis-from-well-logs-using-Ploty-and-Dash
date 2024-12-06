@@ -46,7 +46,7 @@ Visualize gamma ray, spontaneous potential (SP) logs, and calculate shale volume
 
 You can download and watch the demo video from the following link:
 
-[Download Demo Video](demo.mp4)
+[Download Demo Video](demo(2).gif)
 
 ## Dependencies
 - Python 3.10+  
