@@ -1,7 +1,7 @@
-# Saturation and Shale Volume Analysis Tool
+# Saturation and Shale Volume Analysis Tool using Ploty and Dash
 
 ## Overview
-This project provides Python functions to analyze well log data for calculating saturations and shale volumes, as well as generating visualizations to interpret subsurface properties. The tools leverage **Plotly** for interactive plotting and are designed to work with data that includes depth, resistivity, porosity, and other well log parameters.
+This project provides Python functions to analyze well log data for calculating saturations and shale volumes, as well as generating visualizations to interpret subsurface properties. The tools leverage **Plotly** and **Dash**for interactive plotting and are designed to work with data that includes depth, resistivity, porosity, and other well log parameters.
 
 ---
 
