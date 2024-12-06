@@ -45,10 +45,10 @@ Visualize gamma ray, spontaneous potential (SP) logs, and calculate shale volume
 ## Demo  
 Below is a demonstration of the Saturation and Shale Volume Analysis Tool in action:  
 
-![Saturation and Shale Volume Analysis Tool Demo](/demo(2).gif)  
+![Saturation and Shale Volume Analysis Tool Demo](demo(2).gif)  
 
 
-[Download Demo Video](/demo(2).gif)
+
 
 ## Dependencies
 - Python 3.10+  
