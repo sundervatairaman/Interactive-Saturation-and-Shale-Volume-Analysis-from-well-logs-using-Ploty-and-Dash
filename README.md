@@ -46,7 +46,7 @@ Visualize gamma ray, spontaneous potential (SP) logs, and calculate shale volume
 Below is a demonstration of the Saturation and Shale Volume Analysis Tool in action:  
 
 
-<img src="demo3.gif" width="800" />
+<img src="demo2.gif" width="800" />
 
 
 
